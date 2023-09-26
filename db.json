@@ -1,0 +1,66 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "saloum@yahoo.sn",
+      "phone": "772897342"
+    },
+    {
+      "id": 2,
+      "name": "papa saloum sene",
+      "email": "gggg@hh.b",
+      "phone": "772897342",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "",
+      "email": "",
+      "phone": "",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "mam",
+      "email": "mam@ma.com",
+      "phone": "879892793",
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "",
+      "email": "",
+      "phone": "",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "",
+      "email": "",
+      "phone": "",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "sa",
+      "email": "sas@ds",
+      "phone": "772897342",
+      "active": true
+    },
+    {
+      "id": 8,
+      "name": "papa saloum sene",
+      "email": "papa@gmail.com",
+      "phone": "779844322",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "yyyui",
+      "email": "saloum@gmail.com",
+      "phone": "988769097577",
+      "active": true
+    }
+  ]
+}
